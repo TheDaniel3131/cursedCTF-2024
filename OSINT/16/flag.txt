@@ -8,6 +8,8 @@ https://lens.google.com/search?ep=gisbubb&hl=en-MY&re=df&p=AbrfA8oF1-uL2QJESwi6f
 
 https://www.google.com/search?q=montauk+park&rlz=1C1GCEU_enMY959MY959&oq=montauk+park&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDE2MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
+https://www.flickr.com/photos/gentleridevan/5572082657
+
 Basically I crop radar tower behind these two brown structures idk what it is called.
 
 flag: cursedctf{montauk}
