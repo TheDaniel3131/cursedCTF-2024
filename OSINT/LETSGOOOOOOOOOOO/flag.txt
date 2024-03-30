@@ -1,0 +1,6 @@
+flag: cursedctf{31136}
+
+This also took me a lot of time. 
+
+And I think it is worth to show how it is done. you can view below:
+https://imgur.com/a/EUnEsGR
