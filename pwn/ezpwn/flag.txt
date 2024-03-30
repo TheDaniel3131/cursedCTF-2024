@@ -1,0 +1,9 @@
+open ghidra or IDA
+
+you will see there is the almost full flag. I tried multiple times but apparently is because we haven't tried to run the elf.
+
+to bypass it, you have to run it and then based on the name type: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, you can find it in the source code.
+
+cursed{ez_buffer_overflow?_%d}
+
+flag: cursed{ez_buffer_overflow?_42}
