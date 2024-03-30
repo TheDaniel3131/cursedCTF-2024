@@ -7,3 +7,13 @@ to bypass it, you have to run it and then based on the name type: AAAAAAAAAAAAAA
 cursed{ez_buffer_overflow?_%d}
 
 flag: cursed{ez_buffer_overflow?_42}
+
+
+prog:
+
+┌──(kali㉿kali)-[~/Desktop]
+└─$ ./chal       
+Hi! what's your name? AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Congrats! Your flag is: cursed{ez_buffer_overflow?_42}
+zsh: segmentation fault  ./chal
+                                                                        
