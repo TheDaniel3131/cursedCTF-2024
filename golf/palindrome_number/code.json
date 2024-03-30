@@ -1,0 +1,6 @@
+code=$(cat << 'EOF'
+{
+    "code": "class Solution(object):\n    def isPalindrome(self, x):\n        if x < 0 or (x % 10 == 0 and x != 0):\n            return False\n\n        reversed_num = 0\n        original_num = x\n\n        while x > reversed_num:\n            reversed_num = reversed_num * 10 + x % 10\n            x //= 10\n\n        return x == reversed_num or x == reversed_num // 10\n\nsolution = Solution()\nprint(solution.isPalindrome(121))  # Output: True\nprint(solution.isPalindrome(-121)) # Output: False\nprint(solution.isPalindrome(10))   # Output: False\n"
+}
+EOF
+)
