@@ -1,0 +1,18 @@
+I am lucky to guess it right (for so many attempts)
+
+flag: cursedctf{alice}
+
+how i found out? after hundreds of search attempts...
+
+https://lens.google.com/search?ep=gisbubb&hl=en-MY&re=df&p=AbrfA8oP9wtOZzdnaHnVKH5wSAZO4_pQf4Eng_Q1ko6QkxepdNtOnOaD9FtmdPu3la78IQ5p4DSahJJ8tn6h1DpG1XQrI2ONX-0wO1Oa-d5O6txaNtaK1jYygnWPqQif8wQ8LyFo1d0NpvsciE_DV1efWKz4LtGPo4rjEwtO3NIrdjRjtQVhCd42hGKtnsnj5sTGFkTXddFKHTHJcesw0jiUZnjgTsQOVMuVMh3Dn_ss_BnUkQWK_Gx49iwDhlk8Blyf4kyVu6blS8II9Dc5X4Kesm9SZYmBiEfYmZqVorGoE7_HhfCI_G1wtO1WO4AEs8c_D67LKB1DJ5161S2PyNAH9QtBIYZHRKYY9t0TdHFJq9mL0QsoP2wQ#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRGMzT1RJME1qQTRMV1F5WXpjdE5EQmtOQzA0TlRReUxUVmlaRFZsTVRaa1pqTTJZeElmTUhod2RqbFhRWGRuU0RSYU9FZHRjM3A0VFdaRGJIUnVSemgzVGpaU1p3PT0iLG51bGwsbnVsbCxudWxsLDEsbnVsbCxbbnVsbCxudWxsLFsxMTc3Niw0NTc4MSwyNjUxMiwyNTAwMF1dXQ==
+
+
+https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_r6cJ.zp5CNkGHw*ccid_pwn%2FOnkI&form=SBIVSP&iss=SBIUPLOADGET&sbisrc=ImgDropper&idpbck=1&sbifsz=1042+x+897+%c2%b7+75.20+kB+%c2%b7+png&sbifnm=pic+(6).png&thw=1042&thh=897&ptime=85&dlen=102668&expw=646&exph=556&selectedindex=0&id=511403304&ccid=pwn%2FOnkI&vt=2&sim=1
+
+
+I tried to find a woman's name and found this image called Alice Springs Telegraphy...
+
+https://www.bing.com/images/search?view=detailV2&insightstoken=bcid_r6cJ.zp5CNkGHw*ccid_pwn%2FOnkI&form=SBIVSP&iss=VSI&sbisrc=ImgDropper&idpbck=1&sbifsz=1042+x+897+%c2%b7+75.20+kB+%c2%b7+png&sbifnm=pic+(6).png&thw=1042&thh=897&ptime=85&dlen=102668&expw=2000&exph=1488&selectedindex=4&id=73EAE84B6E0A38E506CADB0BE9BAC2E1FAD25D63&ccid=qqrtzTAY&vt=2&sim=11&simid=607990103642553881&ck=7D3CF06CAFD26839713AF854A0ADA225&thid=OIP.qqrtzTAYiPeIlOvU-qX7hAHaFg&mediaurl=https%3A%2F%2Fausemade.com.au%2Fwp-content%2Fuploads%2Ftelegraph-station-201002256785.jpg&pivotparams=insightsToken%3Dbcid_S6cJ.zp5CNkGqxcxoNWLuD9SqbotqVTdP10
+
+
+https://ausemade.com.au/destinations/northern-territory-nt-australia/alice-springs/alice-springs-attractions/alice-springs-telegraph-station-historical-reserve/
