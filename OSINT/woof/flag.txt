@@ -1,0 +1,11 @@
+not easy for me, it took me thousand of attempts (just repeatedly thnking the visible hint) is related to dog and other animals.
+
+
+but then I just use google len to find similar images and I found out it is the BIRD.
+
+https://lens.google.com/search?ep=gsbubb&hl=en-MY&re=df&p=AbrfA8qzoBrdbxEZC9RByvzkGiFLF57-ecwd8KOpsKaCbNkHLC8uoipykD_o7cv6dkc9MdkWbWgVU_vFo-ev66XK3_1vfhNa3nMrVZzPRP3fO9cHewX82qg4LRycI5bWbmouc0XL4teuh7VPYGXZgT7swOVRgSg4WYAM3H26tHVn83hFiSwOz47CnHmw-lPCGlEGRf3gQrwynbFvWi6BbqVya2hYS3L8fSpARvKugnQERFNMfkVwhy427jhCI4W6v6azXX6aBCu5obiptFTILVAX7eRBIC_JpXDrOatnT2BTKgRchxgy2hmNISSqXqlgdlAP4kmsiUcERgywv7TFEc-7Sv31NpMq-18ykG-getbOS9aB-_ZASrci#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKRGt4Wm1KbU5ESTBMVEkwWVdZdE5ERTRNUzA1Tm1VNExUTTBPREU0TW1FNFlXVmxZeElmUlRSSWVUUmthMjFvZUZGUk9FZHRjM3A0VFdaRGJIUklWek00U1RaU1p3PT0iXQ==
+
+https://www.brickeconomy.com/set/40639-1/lego-easter-birds-nest
+
+
+flag; cursedctf{bird}
