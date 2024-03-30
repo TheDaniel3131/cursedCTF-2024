@@ -1,0 +1,16 @@
+interesting
+
+https://rebrickable.com/blog/456/introducing-rebricknet-the-lego-parts-detector/
+
+
+
+scan it through here: https://rebrickable.com/rebricknet/
+
+
+
+flag: cursedctf{60404}
+
+
+
+https://rebrickable.com/sets/60404-1/burger-truck/?inventory=1#parts
+
