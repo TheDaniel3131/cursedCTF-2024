@@ -1,0 +1,18 @@
+https://lens.google.com/search?ep=gisbubb&hl=en-MY&re=df&p=AbrfA8rgXyb_Guo3zZ9m5HqoLIpUScAdwdmTh_FU03BYWIWmDB1JCsik9Yl3U8upTVf-WVlgYzA9cB-CAkvf4B8A2Ia0WC7mNk2uLYVr2mPWWIgcIqpFOiFN9Z8MfiVZmDIXzyFAR2RVHwnTJS_c7kZ9LrwjSPj11Z-9XUq8i1U5pvBHzhMnCsXOnKojER9OtAiP8lWZuKIdVRub5t665Z3KEYCXpQApobDEpSti_JzzKzLaAqO2ddov5iJUBhIEJIYDeoE9Nhl3uJG9Ocy0nIm3pTwVVl5moMfO6O1osSGU2pBVLuLI1Gm47X_JrT-Aajp-rF1LQkY5-zRgZNGngywOYIJb3HoUMUkseAoVqNst5NrdiqOI1BIW#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKR05qWW1KbFpHWmhMVGxqTWpjdE5EUmlaUzFpWWpNekxUWTVaREF4T1dKak16STVZUklmTUhob2FtMUZTV2N4ZVVWVU9FZHRjM3A0VFdaRGJIVXpURmR1WHpaQ1p3PT0iLG51bGwsbnVsbCxudWxsLDEsbnVsbCxbbnVsbCxudWxsLFszODYsNDk1MTUsNTAwMDAsMjI1OTldXV0=
+
+https://www.forgottenchernobyl.net/zymovyshche-village
+
+https://mixkit.co/free-stock-video/chernobyl/
+
+https://mixkit.co/free-stock-video/abandoned/?page=6
+
+https://en.wikipedia.org/wiki/Chernobyl
+
+flag: cursedctf{chornobyl}
+
+
+how I solve? 
+
+I initially thought it is from USA but then I realized there are no people spotted. So I immediately know is somewhere rural or abandoned.
+
+Google lens and yandex it then I found out it is from chernobyl. I tried chernobyl as flag but not successful but it also has the other name called chornobyl and it worked.
