@@ -1,0 +1,3 @@
+cursedctf{teufelsberg}
+
+view: https://www.google.com/search?q=Teufelsberg&rlz=1C1GCEU_enMY959MY959&oq=Teufelsberg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
