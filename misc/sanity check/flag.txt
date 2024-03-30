@@ -1,0 +1,4 @@
+flag: cursedctf{cursedctf{cursedctf{cursedctf{cursedctf{cursedctf{flag}}}}}}
+
+
+I lost all of my sanity after OSINTs.
