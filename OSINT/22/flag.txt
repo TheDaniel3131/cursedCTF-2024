@@ -1,0 +1,10 @@
+the description said it is a sea so I look specifically the sea part of the image and crop it.
+
+https://lens.google.com/search?ep=gisbubb&hl=en-MY&re=df&p=AbrfA8o3PrrkLMKlbz2poYqe6gD1uAleFzpduD8_Zj_6E972hmphEhi0xk7V9WqmtD6cFoXwvrjj-IbatMyjowvv5gjrIywd4Fe09GUXkm7AjTyeU00pFAZSpuW3tLK946yGMCQoLIsKmzBfs2VQsq9MR81IEE2Yu-bS6C6epDeN5n96PpBRPzg6LFyS9NCLDlD-wcZt-lP7tzprHFe8t5r7W7Qwf9gzIuOIQCgREjGIsgNg3eoMH-QWhIOYwYAxwiQA5idXX-HhSFvF1Pxz_6HfXXJKETrgOg4M90FMDl92Py4xdA4HgZ_v39SnQi9Y9DrZRBQ3U0-b9H-ZuPpMBdtgJs9xMADXpRurDs2HmrkdFJSVxCGbx5ls#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKREpqWmpreE5HSmtMVFl5TnpZdE5EWTRZeTFpTXpkbExUa3hORFpqWXpka00yTTFNQklmY3poa1RGSjNUVEJxTVRSak9FZHRjM3A0VFdaRGJIVnVTak5JT1RaQ1p3PT0iLG51bGwsbnVsbCxudWxsLDEsbnVsbCxbbnVsbCxudWxsLFswLDM4MDE3LDEyMDg1LDQ3ODkzXV1d
+
+and I found this interesting article about the sea called aral sea.
+
+https://adventuresoflilnicki.com/aral-sea-uzbekistan/
+
+
+flag: cursedctf{aral-sea}
