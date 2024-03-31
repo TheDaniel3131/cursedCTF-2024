@@ -1,0 +1,10 @@
+osint/Geoguessr-Extreme
+bronson113
+4 solves / 436 points
+Guess the coordinate from the description
+
+```
+
+```
+
+the flag format is cursedctf{123.456789,12.340000}

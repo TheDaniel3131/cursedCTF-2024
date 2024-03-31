@@ -1,5 +1,7 @@
-def decrypt_caesar(ciphertext, shift):
-    decrypted_text = ''
+import re
+
+def caesar_decrypt(ciphertext, shift):
+    decrypted_text = ""
     for char in ciphertext:
         if char.isalpha():
             shifted = ord(char) - shift
@@ -14,8 +16,20 @@ def decrypt_caesar(ciphertext, shift):
             decrypted_text += char
     return decrypted_text
 
-ciphertext = "Uijt jt b tfdsfu nvdi. Ju't b dpnjoh bddftt, cvu ju't tqfoejoh ijn xjui b xfflt"
+ciphertext = "This is a secret much. It's a coming access, but it's spending him with a weeks."
+"
 
-for i in range(26):
-    decrypted = decrypt_caesar(ciphertext, i)
-    print(f"Shift {i}: {decrypted}")
+# Decrypt the ciphertext using Caesar cipher
+decrypted_text = ""
+for shift in range(26):
+    decrypted_text = caesar_decrypt(ciphertext, shift)
+
+# Find all occurrences of the pattern \w+ in the decrypted text
+matches = re.findall(r'\w+', decrypted_text)
+
+# Print the found matches
+if matches:
+    for match in matches:
+        print("Flag found:", match)
+else:
+    print("No flag found.")
